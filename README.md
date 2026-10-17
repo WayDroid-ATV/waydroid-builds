@@ -1,12 +1,12 @@
-# Android 13-16 builds for Waydroid
+# Android 13-17 builds for Waydroid
 
 ## Available features
-|Features|Official builds (for reference)|A13|A14|A15|A16|
-|:------:|:-----------------------------:|:-:|:-:|:-:|:-:|
-| Seamless mode (multi-window)      | ✅ | ✅ | | | |
-| Touchpad pinch-to-zoom support    | | ✅ | ✅ | ✅ | ✅ |
-| VA-API video acceleration support | | ✅ | ✅ | ✅ | ✅ |
-| ARM translation layer support     | ✅ | ✅ | ✅ | ✅ <sup>*</sup> | ✅ |
+|Features|Official builds (for reference)|A13|A14|A15|A16|A17|
+|:------:|:-----------------------------:|:-:|:-:|:-:|:-:|:-:|
+| Seamless mode (multi-window)      | ✅ | ✅ | | | | |
+| Touchpad pinch-to-zoom support    | | ✅ | ✅ | ✅ | ✅ | ✅ |
+| VA-API video acceleration support | | ✅ | ✅ | ✅ | ✅ | ✅ |
+| ARM translation layer support     | ✅ | ✅ | ✅ | ✅ <sup>*</sup> | ✅ | ✅ |
 
 <sup><i>* Available but with poor compatibility</i></sup>
 
